@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1606698242 source:c:\users\carla\documents\programación i\proyectofinal\funcionesvendedores.c
+
+1606758291 source:c:\users\carla\documents\programación i\proyectofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"VerificaArchivos.h"
+	"inicio.h"
+
+1606755642 c:\users\carla\documents\programación i\proyectofinal\verificaarchivos.h
+	<stdio.h>
+	<stdlib.h>
+
+1606768842 c:\users\carla\documents\programación i\proyectofinal\inicio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1606762934 c:\users\carla\documents\programación i\proyectofinal\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Vendedores.h"
+	"Polizas.h"
+	"Siniestros.h"
+
+1606768527 c:\users\carla\documents\programación i\proyectofinal\vendedores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1606760374 c:\users\carla\documents\programación i\proyectofinal\polizas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1606763337 c:\users\carla\documents\programación i\proyectofinal\siniestros.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1612489492 source:e:\programación i\proyectofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"VerificaArchivos.h"
+	"inicio.h"
+
+1606755642 e:\programación i\proyectofinal\verificaarchivos.h
+	<stdio.h>
+	<stdlib.h>
+
+1612490271 e:\programación i\proyectofinal\inicio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1606762934 e:\programación i\proyectofinal\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Vendedores.h"
+	"Polizas.h"
+	"Siniestros.h"
+
+1612489790 e:\programación i\proyectofinal\vendedores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1612489798 e:\programación i\proyectofinal\polizas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1606763337 e:\programación i\proyectofinal\siniestros.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
